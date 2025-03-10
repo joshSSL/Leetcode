@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/joshSSL/Leetcode/tree/master/0782-jewels-and-stones) |
 | [3227-find-missing-and-repeated-values](https://github.com/joshSSL/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/joshSSL/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/joshSSL/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/joshSSL/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/joshSSL/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
