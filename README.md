@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/joshSSL/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/joshSSL/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/joshSSL/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3001-apply-operations-to-maximize-score](https://github.com/joshSSL/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/joshSSL/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/joshSSL/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/joshSSL/Leetcode/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/joshSSL/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/joshSSL/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/joshSSL/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/joshSSL/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/joshSSL/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/joshSSL/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/joshSSL/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
 |  |
 | ------- |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/joshSSL/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/joshSSL/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/joshSSL/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/joshSSL/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/joshSSL/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/joshSSL/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
@@ -151,4 +155,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/joshSSL/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/joshSSL/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Greedy
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/joshSSL/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/joshSSL/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
